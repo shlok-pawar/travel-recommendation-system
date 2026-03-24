@@ -31,6 +31,6 @@ Users input their preferences, and the system filters destinations from a datase
 
 ## How to Run
 1. Download the files
-2. Run main.py
+2. Run app.py
 3. While running main.py, make sure you have Python and its libraries installed.
-4. If not, install them. And run using "python -m streamlit run main.py".
+4. If not, install them. And run using "python -m streamlit run app.py".
