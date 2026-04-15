@@ -34,3 +34,13 @@ Users input their preferences, and the system filters destinations from a datase
 2. Run app.py
 3. While running main.py, make sure you have Python and its libraries installed.
 4. If not, install them. And run using "python -m streamlit run app.py".
+
+
+
+
+
+Some images of the project :
+
+<img width="1917" height="1019" alt="Screenshot 2026-04-16 040626" src="https://github.com/user-attachments/assets/f0d8de17-4e62-4fdb-a8a4-115b937d25d9" />
+<img width="1917" height="1015" alt="Screenshot 2026-04-16 041148" src="https://github.com/user-attachments/assets/5ba55130-da6c-4bfd-8059-31f96336378f" />
+<img width="1916" height="1026" alt="Screenshot 2026-04-16 041336" src="https://github.com/user-attachments/assets/005ba8a6-a6f4-4492-b564-d5df8e19eba2" />
